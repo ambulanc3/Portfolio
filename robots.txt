@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://ambulanc3.github.io/Portfolio/sitemap.xml
+Disallow: /
